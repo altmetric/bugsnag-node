@@ -6,7 +6,7 @@
     "homepage": "http://bugsnag.com",
     "dependencies": {
         "stack-trace": "0.0.9",
-        "request": "2.53.0"
+        "request": "2.x"
     },
     "devDependencies": {
         "mocha": "latest",
